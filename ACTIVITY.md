@@ -6,3 +6,6 @@ ACTIVITY: Added new optimization layer to the core engine.
 TIMESTAMP: Sat May  9 14:59:12 UTC 2026
 ACTIVITY: Enhanced the Rich-text rendering for a cleaner developer experience.
 ---
+TIMESTAMP: Sat May  9 17:02:13 UTC 2026
+ACTIVITY: Updated the technical architecture docs for clarity.
+---
