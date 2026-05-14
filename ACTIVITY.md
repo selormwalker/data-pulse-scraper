@@ -168,3 +168,6 @@ ACTIVITY: Refined the AI-driven validation layer for increased accuracy.
 TIMESTAMP: Thu May 14 11:56:55 UTC 2026
 ACTIVITY: Identified and resolved a critical memory bottleneck in the background service.
 ---
+TIMESTAMP: Thu May 14 14:24:21 UTC 2026
+ACTIVITY: Updated the technical architecture docs to reflect recent infrastructure changes.
+---
